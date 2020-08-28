@@ -40,6 +40,9 @@
             <ComboBox Background="Aqua" DockPanel.Dock="Top" Width="317" Height="20px"/>
         </StackPanel>
         <TextBlock   DockPanel.Dock="Right" Width="200px" />
-        <ListView BorderBrush="LightGray"/>
+        <ListView BorderBrush="LightGray">
+            <TextBlock Margin="10,0,0,0" Canvas.Top="280" Width="100"/>
+            <TextBlock Text="{Binding ElementName=TrvCategorie, Path=SelectedItem.Nom}" Margin="10,0,0,0" Canvas.Top="300" Width="100"/>
+        </ListView>
     </DockPanel>
 </Window>

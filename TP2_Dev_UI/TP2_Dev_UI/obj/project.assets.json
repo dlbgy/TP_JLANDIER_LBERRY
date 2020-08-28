@@ -147,19 +147,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeremy\\.nuget\\packages\\": {}
+    "C:\\Users\\client\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeremy\\source\\repos\\TP2_Dev_UI\\TP2_Dev_UI.csproj",
+      "projectUniqueName": "C:\\Users\\client\\Documents\\TP_JLANDIER_LBERRY\\TP_JLANDIER_LBERRY\\TP2_Dev_UI\\TP2_Dev_UI\\TP2_Dev_UI.csproj",
       "projectName": "TP2_Dev_UI",
-      "projectPath": "C:\\Users\\jeremy\\source\\repos\\TP2_Dev_UI\\TP2_Dev_UI.csproj",
-      "packagesPath": "C:\\Users\\jeremy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeremy\\source\\repos\\TP2_Dev_UI\\obj\\",
+      "projectPath": "C:\\Users\\client\\Documents\\TP_JLANDIER_LBERRY\\TP_JLANDIER_LBERRY\\TP2_Dev_UI\\TP2_Dev_UI\\TP2_Dev_UI.csproj",
+      "packagesPath": "C:\\Users\\client\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\client\\Documents\\TP_JLANDIER_LBERRY\\TP_JLANDIER_LBERRY\\TP2_Dev_UI\\TP2_Dev_UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\client\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
