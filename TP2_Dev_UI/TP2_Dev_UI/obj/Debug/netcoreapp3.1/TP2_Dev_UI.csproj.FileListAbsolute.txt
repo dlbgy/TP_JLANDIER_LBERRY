@@ -24,7 +24,6 @@ C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_D
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\bin\Debug\netcoreapp3.1\TP2_Dev_UI.runtimeconfig.dev.json
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\bin\Debug\netcoreapp3.1\TP2_Dev_UI.dll
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\bin\Debug\netcoreapp3.1\TP2_Dev_UI.pdb
-C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\TP2_Dev_UI.csprojAssemblyReference.cache
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
@@ -38,3 +37,4 @@ C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_D
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\TP2_Dev_UI.dll
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\TP2_Dev_UI.pdb
 C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\TP2_Dev_UI.genruntimeconfig.cache
+C:\Users\client\Documents\TP_JLANDIER_LBERRY\TP_JLANDIER_LBERRY\TP2_Dev_UI\TP2_Dev_UI\obj\Debug\netcoreapp3.1\TP2_Dev_UI.csprojAssemblyReference.cache

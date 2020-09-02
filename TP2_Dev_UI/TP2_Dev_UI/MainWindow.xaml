@@ -39,10 +39,18 @@
             <Label  Content="Trier par:" Width="70px" DockPanel.Dock="Top" VerticalAlignment="Center"/>
             <ComboBox Background="Aqua" DockPanel.Dock="Top" Width="317" Height="20px"/>
         </StackPanel>
-        <TextBlock   DockPanel.Dock="Right" Width="200px" />
-        <ListView BorderBrush="LightGray">
-            <TextBlock Margin="10,0,0,0" Canvas.Top="280" Width="100"/>
-            <TextBlock Text="{Binding ElementName=TrvCategorie, Path=SelectedItem.Nom}" Margin="10,0,0,0" Canvas.Top="300" Width="100"/>
-        </ListView>
+        <TextBlock DockPanel.Dock="Right" Width="200px"/>
+        <ListBox Name="listbox1" BorderBrush="LightGray">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding imagePath}" Width="40" Height="40"></Image>
+                            <TextBlock Margin="10,0,0,0" Canvas.Top="280" Width="200">
+                            <TextBlock Text="{Binding Nom}" Margin="10,0,0,0" Canvas.Top="300" Width="200"/>
+                            </TextBlock>
+                    </StackPanel>
+                </DataTemplate>    
+            </ListBox.ItemTemplate>    
+        </ListBox>
     </DockPanel>
 </Window>
